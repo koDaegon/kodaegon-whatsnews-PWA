@@ -1,4 +1,4 @@
-const API_KEY = 'PRIVATE_KEY';
+const API_KEY = '38d6768849d54adcb26773faeb4f034c';
 
 //Resgistering ServiceWork 
 if ('serviceWorker' in navigator) {
